@@ -38,7 +38,6 @@ class _PinWidgetState extends BaseState<PinWidget> {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontWeight: FontWeight.w500,
-                  color: context.textTheme().headline6?.color,
                   fontSize: 15.0,
                 ),
               ),
